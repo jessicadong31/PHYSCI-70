@@ -1,7 +1,8 @@
 body {
-    font: 20px Montserrat, sans-serif;
+    font: 20px Helvetica Neue, sans-serif;
     line-height: 1.8;
     color: black;
+    background-color: #EED8F3;
   }
 
 p {font-size: 16px;}
