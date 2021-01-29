@@ -12,3 +12,19 @@ p {font-size: 16px;}
   padding: 30px;
   padding-bottom: 70px;
 }
+
+a:hover {
+  color: #a565fb;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a{
+  color: #2e1069;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h3{
+  color: #2e1069;
+}
