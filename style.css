@@ -30,6 +30,7 @@ h3{
 }
 
 .topnav {
+  font: 15px Helvetica Neue, sans-serif;
   background-color: #6A0598;
   overflow: hidden;
 }
